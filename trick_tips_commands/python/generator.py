@@ -11,7 +11,9 @@ val = fnc(nums)
 print(sys.getsizeof(val))
 new_list = list(val)
 print(sys.getsizeof(new_list))
-# print(val)
+
+py_gen = (i for i in range(10000000))
+print(py_gen)
 
 # for i in val:
 #     print(i)
