@@ -2,7 +2,7 @@
 quick loop up &lt;/>
 # ✨ hacktoberfest2022 💫
 
-![banner](https://client-data.knak.io/production/email_assets/5f18b38fc36ef/KO1GKmQjkykbKa2G4r84TN2mRpsZFJuObxjGVHin.png)
+![banner](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
 ## 🌱 Contributing to hacktoberfest 2022
 
