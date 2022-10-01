@@ -1,27 +1,28 @@
 # open-dev-life
 quick loop up &lt;/>
-# ✨ hacktoberfest2021 💫
+# ✨ hacktoberfest2022 💫
 
-![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![banner](https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg)
 
-## 🌱 Contributing to hacktoberfest 2021
+## 🌱 Contributing to hacktoberfest 2022
 
-### Welcome to hacktoberfest 2021 Public Repository. 👨🏻‍💻
-<p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+### Hacktoberfest 2022: Complete your mission for open source 👨🏻‍💻
+<p>Hacktoberfest: a month-long celebration of open-source projects, their maintainers, and the entire community of contributors.
 
-https://hacktoberfest.digitalocean.com/</p>
+## Hacktoberfest 2022: Complete your mission for open source
+
+https://www.digitalocean.com/blog/hacktoberfest-2022-your-mission-for-open-source</p>
 
 -----
 
 ### What can You contribute ⚠️ 
-* There are language Specific folders in the repository choose any you're comfortable with if not, make one.
-* Inside the language folder there will be multiple topic folders like Data Structures, Algorithms, Problems and projects.
-* Contribute any algorithm, data-structure implementation or your favourite problmes or projects.
-* Make sure your follow the below steps.
+In our dev life, we have some code snippets that we frequently use. The goal of this repo is to store that code snippets so that one can quickly come here and use them to safe time.
+* Find the existing domain/programming language/framework or craete one if not exist.
+* Add your code snippet(s)
 -----
 
 ### Process are as follows :- 
-* Login using github @ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+* Login using github @ [Hacktoberfest](https://hacktoberfest.com/)
 * Create four valid pull requests (PRs) between 1st - 31st October
 
 ------
@@ -30,23 +31,25 @@ https://hacktoberfest.digitalocean.com/</p>
 * Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone the forked repository to your local machine.
 ```markdown
-git clone https://github.com/your-username/HacktoberFest2021.git
+git clone https://github.com/your-user-name/open-dev-life.git
 ```
 * change the present working directory
 ```markdown
 cd open-dev-life
 ```
-* Add/Create your project to the specific folder as described in what you can contribute section.
+* Add/Create your code snippet to the specific folder as described in what you can contribute section.
 * Make a new branch
 ```markdown
-git checkout -b branch-name
+git checkout -b new-branch-name
 ```
 * Make change in the repository with the new branch.
+```markdown
+git add -A
+git commit -m "Your commit Message"
+```
 * push the changes.
 ```markdown
-git add .
-git commit -m "Your commit Message"
-git push origin branch-name
+git push -u origin HEAD
 ```
 * Make a pull request.
 * Star the repository.
