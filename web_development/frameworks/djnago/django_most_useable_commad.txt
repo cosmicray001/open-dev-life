@@ -1,0 +1,14 @@
+--run django project
+
+1. python manage.py runserver 8000
+
+--database migrate (for multiple database)
+
+2. python manage.py makemigrations
+3. python manage.py migrate --database='database_name'
+
+--query in multiple database using ORM (example)
+
+4. data1 = ModelName.objects.using('database_name').get(id=pk)
+5. data1 = ModelName.objects.using('database_name').filter(last_modified=date)
+
