@@ -1,0 +1,29 @@
+-- settings specifying these databases
+
+DATABASES = {
+    'default': {},
+    'auth_db': {
+        'NAME': 'auth_db_name',
+        'ENGINE': 'django.db.backends.mysql',
+        'USER': 'mysql_user',
+        'PASSWORD': 'swordfish',
+    },
+    'primary': {
+        'NAME': 'primary_name',
+        'ENGINE': 'django.db.backends.mysql',
+        'USER': 'mysql_user',
+        'PASSWORD': 'spam',
+    },
+    'replica1': {
+        'NAME': 'replica1_name',
+        'ENGINE': 'django.db.backends.mysql',
+        'USER': 'mysql_user',
+        'PASSWORD': 'eggs',
+    },
+    'replica2': {
+        'NAME': 'replica2_name',
+        'ENGINE': 'django.db.backends.mysql',
+        'USER': 'mysql_user',
+        'PASSWORD': 'bacon',
+    },
+}
