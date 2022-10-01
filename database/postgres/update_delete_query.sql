@@ -52,3 +52,13 @@ SET last_update = '2020-07-01'
 WHERE id = 2
 RETURNING *;
 
+-- USE of SQL CASE STATEMENT
+
+SELECT url, name,
+CASE
+    WHEN url LIKE 'https://%' THEN 'The Website is secure.'
+    WHEN url LIKE 'http://%' THEN 'The Wesbite is not secure.'
+    ELSE 'NO DATA FOUND'
+END AS url_text
+FROM links_table;
+
