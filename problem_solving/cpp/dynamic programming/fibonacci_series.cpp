@@ -24,8 +24,9 @@ int main()
     int number;
     cout<<"Enter a Number"<<endl;
     cin>>number;
-    if(number < MAX_VAL || number >= 0)
+    if(number < MAX_VAL && number >= 0)
         cout<<number<<"th Fibonacci Value is = "<<fib(number)<<endl;
     else
         cout<<"overflow"<<endl;
 }
+
