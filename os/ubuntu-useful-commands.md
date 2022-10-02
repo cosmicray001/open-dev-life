@@ -3,6 +3,8 @@
 ```ls``` - directory listing (list all files/folders on current dir) <br>
 ```ls -l``` - formatted listing <br>
 ```ls-la``` - formatted listing including hidden files  <br>
+```ls-t```  - list down all the files in the last modified file first order  <br>
+```ls -lX``` - list down all the files sorted by filetype extension <br>
 ```cd dir``` - change directory to dir (dir will be directory name) <br>
 ```cd ..``` - change to parent directory <br>
 ```cd ../dir``` - change to dir in parent directory <br>
@@ -14,9 +16,9 @@
 ```rm -r dir``` -delete directory dir <br>
 ```rm -rf dir``` - remove directory dir <br>
 ```rm -rf /``` - launch some neuclear bombs targeting your system <br>
-```cp filel file2``` - copy filel to file2 <br>
-```mv filet file2``` - rename filel to file2 <br>
-```mv filel dir/file2``` - move filel to dir as file2 <br>
+```cp file1 file2``` - copy file1 to file2 <br>
+```mv file1 file2``` - rename file1 to file2 <br>
+```mv file1 dir/file2``` - move file1 to dir as file2 <br>
 ```touch file``` - create or update file <br>
 ```cat file``` -output contents of file <br>
 ```cat > file``` - writo standard input into file <br>
