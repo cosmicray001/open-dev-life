@@ -35,7 +35,7 @@ load_specific_result_delay = 4
 ```
 ### Google map queries
 
-Here, we scraped the resturants data of Bangladesh. You can modify the query link according to your need. Be assure of the current google map query link current format.
+Here, we scraped the resturants data of Bangladesh. You can modify the query link according to your need. Be assure of the current google map query link format.
 ```sh
 map_query1= "https://www.google.com/maps/search/restaurants+in+Dhaka/&pws=0"
 map_query2= "https://www.google.com/maps/search/restaurants+in+Chittagong/&pws=0" 
