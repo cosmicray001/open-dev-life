@@ -32,3 +32,10 @@ PUT /megacorp/employee/3
     ]
 }
 ```
+
+### retrive doc
+```
+GET /index_name/type_name/1
+
+GET /megacorp/employee/1
+```
