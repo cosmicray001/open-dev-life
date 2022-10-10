@@ -1,0 +1,54 @@
+<div class='container'>
+  <div class='upper'>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+  <div class='mid'></div>
+  <div class='lower'></div>
+</div>
+<style>
+  body {
+    background: #6592CF;
+  }
+  .container {
+    width: 140px;
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .upper {
+    height: 100px;
+    background: #6592CF;
+    display: flex;
+  }
+  .mid {
+    height: 100px;
+    background: #060F55;
+    border-radius: 0px 0px 80px 80px;
+  }
+  .lower {
+    height: 50px;
+    background: #060F55;
+    width: 20px;
+    margin: auto;
+  }
+  .upper div {
+    width: 20px;
+  }
+  .upper div:nth-child(odd) {
+    background: #060F55;
+    height: 100px;
+    border-radius: 10px 10px 0 0;
+  }
+  .upper div:nth-child(even) {
+    border-radius: 0 0 10px 10px;
+    height: 110px;
+    background: #6592CF;
+  }
+</style>
