@@ -2,7 +2,8 @@
 
 **Given Table:**
 
-![image](https://user-images.githubusercontent.com/41752761/197494454-f9b48cfb-0863-4278-94eb-45c4842c9bd1.png)
+![image](https://user-images.githubusercontent.com/41752761/197496993-75b29d66-4ea6-46ab-9956-69ced2d6c31c.png)
+
 
 **Task:** Find the count of new users for each of the days from the above table.
 
