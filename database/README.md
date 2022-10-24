@@ -1,4 +1,4 @@
-## Use Case - SQL
+## Partitioning - Use Case SQL
 
 **Given Table:**
 
@@ -12,5 +12,6 @@
 ![image](https://user-images.githubusercontent.com/41752761/197494906-c0ffba98-5a78-4abd-807f-d968844fad45.png)
 
 
-**Solution will be added later.
+**Solution:**
 
+![image](https://user-images.githubusercontent.com/41752761/197601983-3cf391b6-55f3-4441-80ca-c65df5568e83.png)
