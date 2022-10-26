@@ -15,3 +15,7 @@
 **Solution:**
 
 ![image](https://user-images.githubusercontent.com/41752761/197601983-3cf391b6-55f3-4441-80ca-c65df5568e83.png)
+
+
+## Formating Dates in SQL Server - Reference Site
+[Click Here](https://www.mssqltips.com/sqlservertip/2655/format-sql-server-dates-with-format-function/)
