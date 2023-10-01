@@ -1,17 +1,15 @@
 # open-dev-life
 quick loop up &lt;/>
-# ✨ hacktoberfest2022 💫
+# ✨ hacktoberfest2023 💫
 
 ![banner](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
-## 🌱 Contributing to hacktoberfest 2022
+## 🌱 Contributing to hacktoberfest 2023
 
-### Hacktoberfest 2022: Complete your mission for open source 👨🏻‍💻
-<p>Hacktoberfest: a month-long celebration of open-source projects, their maintainers, and the entire community of contributors.
 
-## Hacktoberfest 2022: Complete your mission for open source
+## How to participate in Hacktoberfest
 
-https://www.digitalocean.com/blog/hacktoberfest-2022-your-mission-for-open-source</p>
+https://www.digitalocean.com/blog/how-to-participate-hacktoberfest</p>
 
 -----
 
