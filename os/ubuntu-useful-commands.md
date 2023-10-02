@@ -73,3 +73,10 @@ order: owner/group/world
 ```chmod 777``` -rwx for overyone 
 ```chmod 755``` - rw for owner, rx for group world
 
+# ARCHIVING AND COMPRESSION
+
+```tar -cvf <archive_name>.tar <directory>``` - Create a tarball.
+```tar -xvf <archive_name>.tar: Extract files``` -from a tarball.
+```gzip <file>``` -Compress a file.
+```gunzip <file.gz>``` -Decompress a gzipped file.
+
